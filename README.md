@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yamini6
+- 👋 Hi, I’m @Yamini-dev001
 - 👀 I’m interested in MERN,React js,Node JS 
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to improve my skills 
